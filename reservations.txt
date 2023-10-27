@@ -1,0 +1,2 @@
+Deluxe Room,5KfC3F,1,20,25,0,ap5443
+Deluxe Room,QScYhk,2,20,23,0,a1234
